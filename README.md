@@ -10,3 +10,6 @@ From Bureau of Economic Analysis, US Department of Commerce, the GDP over time o
 ## Task Done
 
 University towns have their mean housing prices less effected by recessions. We run a t-test to compare the ratio of the mean price of houses in university towns the quarter before the recession starts compared to the recession bottom. (price_ratio=quarter_before_recession/recession_bottom)
+
+## Results
+The Hypothesis claimed was true
